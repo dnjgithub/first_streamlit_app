@@ -34,6 +34,9 @@ streamlit.dataframe(furityvice_normalized)
 
 
 
+import snowflake.connector
+
+
 
 
 
